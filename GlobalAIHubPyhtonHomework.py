@@ -6,4 +6,4 @@ value5 = int(input("5. değer giriniz="))
 
 
 print("1. değer =",value1," 2. değer = ",value2," 3. değer = ",value3,
-      " 4. değer = ",value4," 5. değer = ",value5)""
+      " 4. değer = ",value4," 5. değer = ",value5)
