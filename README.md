@@ -1,1 +1,1 @@
-# GlobalAIHubPythonHomework
+# GlobalAIHubPython
